@@ -3,6 +3,6 @@
 
 该仓库存储了各区自2012至2020年的一二模卷 可能包含答案和解析
 
-仅作个人备份 资源来自网络 如下载较慢 请访问Github仓库并单个下载
+仅作个人备份 资源来自网络 ZIP文件完全解压后约190MB 如下载较慢 请访问Github仓库单个下载或使用代理
 
 [『访问仓库』](https://github.com/Xnye/SMSE.git) [『ZIP打包直链』](https://github.com/Xnye/SMSE/archive/refs/tags/2020.zip)
